@@ -2,12 +2,12 @@
 
 This repository maintains the code for the [paper](http://arxiv.org/pdf/1605.06853v1.pdf) **Path planning in Dynamic Environments with Adaptive Dimensionality** published in the proceedings of the International Symposium on Combinatorial Search (SoCS) 2016. If you use this code, please cite the paper as follows:
 
-`@inproceedings{vemula2016path,
+```@inproceedings{vemula2016path,
   title={Path Planning in Dynamic Environments with Adaptive Dimensionality},
   author={Vemula, Anirudh and Muelling, Katharina and Oh, Jean},
   booktitle={Ninth Annual Symposium on Combinatorial Search},
   year={2016}
-}`
+}```
 
 
 ## How to use this code
